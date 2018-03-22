@@ -18,7 +18,7 @@ h2{
   color: white
 }
 
-p{
+a{
   color: aquamarine;
   font-size: 16px;
 }
@@ -28,3 +28,12 @@ h3 {
   color: gray;
 
 }
+h4{
+  text-align:right;
+  color:gray;
+  font-family:verdana;
+
+}
+
+video{
+  pointer-events:none;
